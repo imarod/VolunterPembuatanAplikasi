@@ -11,3 +11,6 @@ Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 
 **\Berikut ini comit ke dua**
+--
+**Berikut daftar Volunter yang diterima:
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
